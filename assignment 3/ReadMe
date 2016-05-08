@@ -1,0 +1,11 @@
+in this assignment 3
+
+run the main_file script
+We need to keep all the 4 images in the current directory 
+We will take user input as which 2 images we have to take for computation 
+After taking images a screen will opened having both the 2 images 
+Now here comes the part which we need to follow cautiously 
+We will choose the 8 points in image 1 first and then after pressing enter, we will choose the other 8 points in the second image keeping the same order and then we will press enter
+After that the corresponding epipolar lines will be displayed and then we will close it 
+There will be a file named results.txt showing all the output 
+There is no part to display epipolar lines as the lines are produced nearly 5 to 6 times away from image size 
